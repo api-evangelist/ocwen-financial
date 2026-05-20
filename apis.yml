@@ -18,6 +18,8 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/ocwen-financial-corporation
   - type: Website
     name: Ocwen Financial Website
     description: Official website for Ocwen Financial Corporation.
