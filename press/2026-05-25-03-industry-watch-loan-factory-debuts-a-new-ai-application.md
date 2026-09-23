@@ -1,7 +1,9 @@
 ---
 title: 'Industry Watch: Loan Factory debuts a new AI application ...'
 url: https://www.scotsmanguide.com/news/industry-watch-loan-factory-debuts-a-new-ai-application-and-more/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Ocwen Financial" press release artificial intelligence'
 position: 3
 source: serpapi-google

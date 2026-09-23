@@ -1,7 +1,9 @@
 ---
 title: Ocwen to rebrand as Onity
 url: https://www.nationalmortgagenews.com/news/ocwen-to-rebrand-as-onity
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Ocwen Financial" press release artificial intelligence'
 position: 4
 source: serpapi-google
